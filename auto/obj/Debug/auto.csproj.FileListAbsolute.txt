@@ -1,0 +1,34 @@
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\obj\Debug\auto.Properties.Resources.resources
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\obj\Debug\auto.csproj.GenerateResource.Cache
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\bin\Debug\auto.exe.config
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\obj\Debug\Form1.resources
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\obj\Debug\AutoBuff.resources
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\bin\Debug\auto.exe
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\bin\Debug\auto.pdb
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\obj\Debug\auto.exe
+C:\Users\Mr Hai\Desktop\auto moi\auto\auto\obj\Debug\auto.pdb
+C:\Users\Mr Hai\Desktop\auto\auto\auto\bin\Debug\auto.exe.config
+C:\Users\Mr Hai\Desktop\auto\auto\auto\obj\Debug\auto.exe
+C:\Users\Mr Hai\Desktop\auto\auto\auto\obj\Debug\auto.pdb
+C:\Users\Mr Hai\Desktop\auto\auto\auto\bin\Debug\auto.exe
+C:\Users\Mr Hai\Desktop\auto\auto\auto\bin\Debug\auto.pdb
+C:\Users\Mr Hai\Desktop\auto\auto\auto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mr Hai\Desktop\auto\auto\auto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mr Hai\Desktop\auto\auto\auto\obj\Debug\auto.csprojResolveAssemblyReference.cache
+C:\Users\Mr Hai\Desktop\auto\auto\auto\obj\Debug\Form1.resources
+C:\Users\Mr Hai\Desktop\auto\auto\auto\obj\Debug\AutoBuff.resources
+C:\Users\Mr Hai\Desktop\auto\auto\auto\obj\Debug\auto.Properties.Resources.resources
+C:\Users\Mr Hai\Desktop\auto\auto\auto\obj\Debug\auto.csproj.GenerateResource.Cache
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\bin\Debug\auto.exe.config
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\obj\Debug\auto.exe
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\obj\Debug\auto.pdb
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\bin\Debug\auto.exe
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\bin\Debug\auto.pdb
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\bin\Debug\Newtonsoft.Json.xml
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\obj\Debug\auto.csprojResolveAssemblyReference.cache
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\obj\Debug\Form1.resources
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\obj\Debug\AutoBuff.resources
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\obj\Debug\auto.Properties.Resources.resources
+D:\Download\Compressed\Auto Jx2\Auto Jx2\auto\obj\Debug\auto.csproj.GenerateResource.Cache
